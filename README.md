@@ -33,5 +33,5 @@ Do not use it for commercial purposes.
 
 CREDITS :
 
-The creator(s) of the original 1998 work :)
+The creator(s) of the original 1998 work.
 
