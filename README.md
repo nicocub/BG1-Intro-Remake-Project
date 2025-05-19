@@ -6,12 +6,6 @@ Today, I present to you version 1.0 of my project to remake the introduction to 
 I undertook this project both out of nostalgia and to pay homage to this cult game that had a profound impact on me. Baldur's Gate is one of those games that made me dream with its atmosphere, its depth, and also with its introduction, which is at once dark, mysterious, and captivating.
 With this project, I wanted to recreate this emotion, drawing on the skills I've developed in 3D modeling, animation, and lighting. It was also a technical challenge, but above all, a labor of love, full of memories.
 
-This version 1.0 includes:
-
-• A complete storyboard,
-• Modeling of the majority of the backgrounds and characters,
-• The main animations,
-
 I still have several elements to improve:
 
 • Finalize certain background elements,
