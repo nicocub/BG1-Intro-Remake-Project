@@ -8,10 +8,10 @@ With this project, I wanted to recreate this emotion, drawing on the skills I've
 
 I still have several elements to improve:
 
-• Finalize certain background elements,
-• Improve the fluidity of the animations,
-• Work more on the lighting to enhance the atmosphere,
-• Finalize the VFX.
+* Finalize certain background elements,
+* Improve the fluidity of the animations,
+* Work more on the lighting to enhance the atmosphere,
+* Finalize the VFX.
 
 This project isn't finished yet, but for me it's already a personal return to a world I love, and a sincere tribute to a video game classic.
 
