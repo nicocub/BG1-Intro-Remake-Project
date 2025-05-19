@@ -1,6 +1,5 @@
 DESCRIPTION :
 
-
 Hello everyone,
 
 Today, I present to you version 1.0 of my project to remake the introduction to Baldur's Gate 1, which I created as part of my Blender training.
@@ -24,9 +23,15 @@ This project isn't finished yet, but for me it's already a personal return to a 
 
 Thank you for your attention, and I would love your feedback!
 
-
 INSTALLATION :
 
-
-
 Go to the game directory...\Baldur's Gate - Enhanced Edition\lang\en_US\movies. Back up your intro.wbm file and simply paste my file in its place. Enjoy... :)
+
+NOTES : 
+
+Do not use it for commercial purposes.
+
+CREDITS :
+
+The creator(s) of the original 1998 work :)
+
